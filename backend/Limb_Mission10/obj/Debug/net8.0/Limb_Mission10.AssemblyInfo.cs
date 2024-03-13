@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Limb_Mission10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa687cca8e9b60912f700eef4a5665d6983dc873")]
 [assembly: System.Reflection.AssemblyProductAttribute("Limb_Mission10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Limb_Mission10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
